@@ -1,1 +1,1 @@
-# training-NextJS
+# training-nextjs-blog
