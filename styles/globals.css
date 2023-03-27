@@ -1,0 +1,21 @@
+body {
+    font-family: "Arial Rounded MT Bold", sans-serif;
+}
+
+main, header {
+    padding: 0 1rem;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+a:focus, a:hover {
+    text-decoration: underline;
+}
+
+a {
+    text-decoration: none;
+    color: darkred;
+}
+
