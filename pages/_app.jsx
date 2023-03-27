@@ -8,11 +8,6 @@ const App = ({Component, pageProps}) => (
       <NavBar />
     </header>
     <Component {...pageProps} />
-    <ul>
-      <li>one</li>
-      <li>two</li>
-      <li>three</li>
-    </ul>
   </>
 );
 
