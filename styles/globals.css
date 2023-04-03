@@ -1,5 +1,14 @@
+/*Light Theme*/
+:root {
+    --background-color: white;
+    --text-color: black;
+    --link-color: darkred;
+}
+
 body {
     font-family: "Arial Rounded MT Bold", sans-serif;
+    background-color: var(--background-color);
+    color: var(--text-color);
 }
 
 main, header {
@@ -16,6 +25,6 @@ a:focus, a:hover {
 
 a {
     text-decoration: none;
-    color: darkred;
+    color: var(--link-color);
 }
 
